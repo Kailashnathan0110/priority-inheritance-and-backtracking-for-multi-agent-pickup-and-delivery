@@ -47,6 +47,8 @@ Simulations were conducted using MATLAB to evaluate the PIBT algorithm:
   - **Runtime**: Measures algorithm efficiency.
   - **Success Rate**: Tracks completion rates across varying densities.
 
+
+![Visualization](demo/video1.gif)
 ---
 
 ## Results
