@@ -51,6 +51,7 @@ Simulations were conducted using MATLAB to evaluate the PIBT algorithm:
 ![Visualization](demo/video1.gif)
 ![Visualization](demo/video2.gif)
 
+The above demonstration shows multiple robots represented by colored circles reach their corresponding target points without collision.
 ---
 
 ## Results
